@@ -1,2 +1,3 @@
-# Digital-Life-Journal-
-Digital Life Journal 
+# JournalApp
+
+Una aplicación para llevar mi diario hecha con React y Redux.
