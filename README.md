@@ -1,3 +1,3 @@
 # JournalApp
 
-Una aplicación para llevar mi diario hecha con React y Redux.
+An application to keep my diary made with React and Redux.
