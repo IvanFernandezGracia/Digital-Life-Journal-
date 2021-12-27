@@ -1,7 +1,7 @@
 # Digital Life Journal App
 
 Website that creates cards that represent your life diary. 
-It is authenticated with Google SignIn and Firebase, maintains your authentication data with Redux and stores the cards in the Firestore database. 
+It is authenticated with Google SignIn and Firebase, maintains your authentication data with Redux (REACT) and stores the cards in the Firestore database. 
 
 ## Home Page
 ![Captura de pantalla 2021-12-27 004853](https://user-images.githubusercontent.com/48660555/147432625-e6b9f524-c93c-4753-9f5d-d89270de4217.png)
