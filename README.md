@@ -24,38 +24,34 @@ https://user-images.githubusercontent.com/48660555/147433277-709b3b43-9225-4982-
     </tr>
         <td>
         <ul>
-          <li>SPA</li>  
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                    
+          <li>Redux</li>  
+          <li>Store</li>                     
+          <li>Middlewares</li>                     
+          <li>Dispatch</li>                     
+          <li>Actions</li>                     
+          <li>State</li>                     
+          <li>Asynchronous actions</li>                     
         </ul>
       </td>    
         <td>
         <ul>
-          <li>SPA</li>  
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                
+          <li>Firebase</li>  
+          <li>FireStore</li>                     
+          <li>Redux Devtools</li>                     
+          <li>Thunk</li>                     
+          <li>Forms</li>                     
+          <li>Google SingIn</li>                     
+          <li>Asynchronous Actions</li>                     
+          <li>authentication status</li>              
         </ul>
       </td>
          <td>
         <ul>
-          <li>SPA</li>  
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>                     
-          <li>SPA</li>  
+          <li>CRUD to Firestore</li>  
+          <li>Store by adding other reducers</li>                     
+          <li>Selecting and uploading files</li>                     
+          <li>Additional animations</li>                     
+          <li>Logout cleanup</li>                      
         </ul>
       </td>
   </tbody>
