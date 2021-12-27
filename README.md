@@ -8,6 +8,7 @@ Website that shows a list of heroes according to their category (Marvel, DC) and
 ![Captura de pantalla 2021-12-27 004853](https://user-images.githubusercontent.com/48660555/147432625-e6b9f524-c93c-4753-9f5d-d89270de4217.png)
 
 ## Video
+https://user-images.githubusercontent.com/48660555/147433277-709b3b43-9225-4982-8a80-ee08aeace59e.mp4
 
 
 <!-- Tech -->
